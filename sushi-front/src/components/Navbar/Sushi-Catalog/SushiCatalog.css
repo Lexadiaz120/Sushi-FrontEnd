@@ -1,0 +1,12 @@
+.sushi-catalog {
+  display: flex;
+  justify-content: space-around;
+  width: 1200px;
+}
+
+.catalog-name {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: Philosopher;
+  color: #000000;
+}
